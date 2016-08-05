@@ -15,7 +15,9 @@ A Web Site intended to support the needs of the IT Shop including:
 - On Call Management
 - Calendar Management (with multiple calendars)
 - Help Management system
+- more being added all the time
  
 Suitable for companies with one or more divisions where divisions should see different pages and have different security features.
 
 Includes a complete security management system to build your own custom security groups and page access.
+Support Contracts are available at mikesminions.com.
